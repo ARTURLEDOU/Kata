@@ -1,0 +1,17 @@
+body{
+    background-image: url('cover.png');
+    background-color: rgb(31, 31, 31);
+    background-size: 100%;
+    align-items: center;
+    font-family: 'Rubik 80s Fade', cursive;
+
+    
+}
+
+.titulo{
+    font-size: 7rem; ;
+    color: snow;
+    font-family: 'Rubik 80s Fade', cursive;
+}
+
+
